@@ -1,4 +1,4 @@
 coursera-android
 ================
 
-Source Code for Android Course Example Applications
+Source Code for the Coursera course, Programming Mobile Applications for Android Handheld Systems' Lab Assignments.
